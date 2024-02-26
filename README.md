@@ -1,6 +1,7 @@
 # 💻 DesiBazaar - Your One-Stop Shop for Electronics
 
-![poster](https://github.com/tushar2658/DesiBazaar-E-Commerce-Website/assets/126715501/f38f837f-58e1-4486-95e7-5ecca17134d6)
+![desibazaar](https://github.com/tushar-263/DesiBazaar-E-Commerce-Website/assets/126715501/6656ac95-c8ce-44e5-9df8-25700a297466)
+
 
 An e-commerce website where users can easily purchase their favorite electronic products. 
 
